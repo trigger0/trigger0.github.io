@@ -38,40 +38,41 @@
 # Yan Qi Lake at 2020-06-25
 
 ## Summary
-Comfortable circumstance, modest distance, but the road is not very bike-friendly.
-Brought my A72 but didn't use it.
+Comfortable circumstance, distance not very long, also very bike-friendly.
 
 Circumstance:
 - Weather is cloudy
 - Temperature is Suitable 
 
 Planning:
-- xx
+- Not a long route, about 22km per loop. So I ride for 2 loops.
+- A vending machine near the Kempinski.
+- A KFC on the way.
 
 Road situation:
-- xx
+- Specified lane for bikes mostly.
+- Traffic is light.
 
 ## Personal Data
 
 <style></style>
-|           |                   | 2020-07-04 41km  |
-|-----------|-------------------|------------------|
-| GENERAL   | Type              | Ride             |
-|           | Distance          | 41.25km          |
-|           | Calorie           | 976 kcal         |
-|           | Activity ID       | #83236923        |
-| SPEED     | Avg Moving Speed  | 18.60 km/h       |
-|           | Avg Speed         | 16.30 km/h       |
-|           | Max Speed         | 37.22 km/h       |
-| ELEVATION | Elevation Gain    | 110 m            |
-|           | Elevation Loss    | 112 m            |
-|           | Min-Max Elevation | 485.07-533.17 m  |
-|           | Min-Max Gradient  | -18%-19%         |
-| DURATION  | Moving            | 2:13:03          |
-|           | Total             | 2:31:52          |
-|           | Start             | 2020-07-04 9:47  |
-|           | End               | 2020-07-04 12:18 |
-
+|           |                   | 2020-06-25 YanQi Lake |
+| ---       | ---               | ---                   |
+| GENERAL   | Type              | Ride                  |
+|           | Distance          | 44.31 km              |
+|           | Calorie           | 1016 kcal             |
+|           | Activity ID       | #82722360             |
+| SPEED     | Avg Moving Speed  | 18.50 km/h            |
+|           | Avg Speed         | 15.47 km/h            |
+|           | Max Speed         | 48.30 km/h            |
+| ELEVATION | Elevation Gain    | 325 m                 |
+|           | Elevation Loss    | 327 m                 |
+|           | Min-Max Elevation | 52.98-138.83m         |
+|           | Min-Max Gradient  | -17%-19%              |
+| DURATION  | Moving            | 2:23:42               |
+|           | Total             | 2:51:55               |
+|           | Start             | 2020-06-25 10:40      |
+|           | End               | 2020-06-25 13:32      |
 
 ## Route Book
 <div id="map" class="leaflet-map"></div>
