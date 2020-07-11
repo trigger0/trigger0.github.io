@@ -41,20 +41,20 @@
 Famous route, but still under construction. Because of that, the traffic is light but somehow inconvenient.
 
 - Circumstance:
- - Weather is cloudy
- - Temperature is Suitable
- - A bit high humidity
+  - Weather is cloudy
+  - Temperature is Suitable
+  - A bit high humidity
 
 
 - Planning:
- - Charging station inside the TongZhou canal park.
- - Shops near the TongZhou canal park.
- - A small town on the way, being removed.
+  - Charging station inside the TongZhou canal park.
+  - Shops near the TongZhou canal park.
+  - A small town on the way, being removed.
 
 - Road situation:
- - Specified lane not usable.
- - Main road is good but share with cars.
- - For now traffic is light, because the road still under construction.
+  - Specified lane not usable.
+  - Main road is good but share with cars.
+  - For now traffic is light, because the road still under construction.
 
 ## Personal Data
 
