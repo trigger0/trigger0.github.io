@@ -43,7 +43,7 @@
 
 Circumstance:
 - It's a sunny day.
-- Temperature is high (35C).
+- Temperature is high (35°C).
 
 Planning:
 - Charging station (国家电网充电站 北武路) is good, but only 2 stakes.
