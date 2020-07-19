@@ -38,18 +38,23 @@
 # JiuDu River at 2020-07-19
 
 ## Summary
-Comfortable circumstance, modest distance, but the road is not very bike-friendly.
-Brought my A72 but didn't use it.
+- Sunny day but forgot to take long sleeve, Got sunburned.
+- Under estimate the intensity of climbing. It's not just a 75km route, and also 600m climbing.
 
-Circumstance is comfortable because:
-- Weather is cloudy
-- Temperature is Suitable 
+Circumstance:
+- It's a sunny day.
+- Temperature is high (35C).
 
-One way distance is about 22 km. Mid of route right at Yong Ning accient town, a proper place for launch.
+Planning:
+- Charging station (国家电网充电站 北武路) is good, but only 2 stakes.
+- Total distance is 75km.
+- Small village along the way. Plenty depots.
+- No restaurant found, maybe because of the COVID-19. Need to take some food.
 
-The road is not bike-friendly, like:
-- There is no specific lane for bycycle
-- Some small path named `Bike road`, but too rough to ride on it.
+The road situation:
+- About 5km HuaiChang Road (怀昌路), very crowded and share with cars and large trucks.
+- Once into the moutain, road situation become way more better. Still share with cars but traffic is light.
+- After moutain road is HuaiChang Road (怀长路), there is bike only road. Flat like a high way, but very few shady place.
 
 ## Personal Data
 
